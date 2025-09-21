@@ -7,8 +7,8 @@ function fetchUserData() {
         
        
         const userData = {
-            name: 'John Doe',
-            email: 'john@example.com'
+            name: 'Akshat',
+            email: 'Akshat@example.com'
         };
         
         console.log('User:', userData);
@@ -17,5 +17,6 @@ function fetchUserData() {
 
 
 fetchUserData();
+
 
 
